@@ -37,11 +37,9 @@ Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile
 
 🔥 **BadUSB**: BadUSB implementation, custom BadUSB scripts to be uploaded on the BLEShark (1-2 months).
 
-✅ **Custom Apps**: Create custom applications to run on the BLEShark (2-3 months).
+✅ **Custom Apps**: Create custom applications for BLEShark (2-3 months).
 
-🛍️ **Shopify Store**: Purchase your own BLEShark on shopify (2-3 months).
-
-👐 **Open-Source**: Potential opportunity for open-source code (non-obfuscated code) for a communitty-driven BLEShark (3-4 months).
+🛍️ **Shopify Store**: Purchase your BLEShark on Shopify (2-3 months).
 
 📱 **OTA Programming Through App**: Update your BLEShark through an Android app (maybe iOS soon) (4-5 months).
 
