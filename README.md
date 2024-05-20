@@ -1,6 +1,6 @@
 # BLEShark, an ESP-32 based BLE & Wi-Fi Spammer 📶
 
-Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface. provides an intuitive user experience.
+Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface. 
 
 ## Updating 🛠️
 
