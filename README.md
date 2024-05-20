@@ -43,6 +43,8 @@ Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile
 
 📱 **OTA Programming Through App**: Update your BLEShark through an Android app (maybe iOS soon) (4-5 months).
 
+🙌 **Open-Source**: Potential opportunity for uploaded code for people to contribute.
+
 ## WARNING ‼️
 
 <p align="center">
