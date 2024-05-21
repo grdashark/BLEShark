@@ -10,8 +10,8 @@ Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile
 3. Download the newest version of the .bin file for your BLEShark under "releases" (github.com/grdashark/BLEShark/releases). 
 4. Open https://web.esphome.io/ in Chrome or another supported browser, and click "connect".
 5. You should receive a popup to connect to a serial port. Select the BLEShark port (usually the only or first port).
-6. After it has connected, upload the .bin file to the uploader.
-7. Click "upload".
+6. After it has connected, click "install", then upload the .bin file to the uploader.
+7. Click "install".
 8. Voila!
 ### Yes, this is lengthy and a bit complicated. OTA update coming soon!
 
