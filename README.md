@@ -35,13 +35,13 @@ Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile
 
 🤖 **Wi-Fi Deauthing**: Sends de-authentication packets to disrupt Wi-Fi network connections (1-2 months).
 
-🔥 **BadUSB**: BadUSB implementation, custom BadUSB scripts to be uploaded on the BLEShark (1-2 months).
-
 ✅ **Custom Apps**: Create custom applications for BLEShark (2-3 months).
 
 🛍️ **Shopify Store**: Purchase your BLEShark on Shopify (2-3 months).
 
 📱 **OTA Programming Through App**: Update your BLEShark through an Android app (maybe iOS soon) (4-5 months).
+
+📰 **New Model**: BLEShark Plus coming soon! (IR, better control board, bigger OLED, longer range, less battery consumtion, SD Card support, BadUSB, and more...)  
 
 🙌 **Open-Source**: Potential opportunity for uploaded code for people to contribute.
 
