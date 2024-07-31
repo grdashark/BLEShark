@@ -1,25 +1,23 @@
 # BLEShark, an ESP-32 based BLE & Wi-Fi Spammer 📶
 
-Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface. 
+This project uses the ESP-32 chip to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface. 
 
 ## Updating 🛠️
 
 ⚙️ **To update your BLEShark, follow these steps:**
-1. Download and install the necessary drivers (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads). 
-2. Plug in your BLEShark in your computer's USB port.
-3. Download the newest version of the .bin file for your BLEShark under "releases" (github.com/grdashark/BLEShark/releases). 
-4. Open https://web.esphome.io/ in Chrome or another supported browser, and click "connect".
-5. You should receive a popup to connect to a serial port. Select the BLEShark port (usually the only or first port).
-6. After it has connected, click "install", then upload the .bin file to the uploader.
-7. Click "install".
-8. Voila!
-### Yes, this is lengthy and a bit complicated. OTA update coming soon!
+1. Open the settings menu on your BLEShark
+2. Select "Update"
+3. Everything will be completed for you!
+
+*If you are not near your Wi-Fi network, the update will not work.*
 
 ## Features 🚀
 
-🔋 **Bluetooth Low Energy (BLE) Spamming**: Scans for nearby BLE devices and floods them with spoofed advertisements.
+🔋 **Bluetooth Low Energy (BLE) Spamming**: Floods Android, Windows and iOS devices with spoofed BLE advertisements.
 
-📶 **Wi-Fi Network Spamming**: Spams hundreds of Wi-Fi networks with beacon packets.
+📶 **Wi-Fi Network Spamming**: Spams hundreds of Wi-Fi networks with beacon packets (including hundreds of Wi-Fi networks of the same name).
+
+🚫 **Wi-Fi Deauth Attack**: Deauthenticate (kick out) devices off a 2.4Ghz Wi-Fi network
 
 💀 **Wi-Fi Evil Portal**: Captive portal with Google login. Takes user-submitted passwords.
 
@@ -27,19 +25,11 @@ Welcome to the BLEShark! This project uses the ESP-32 chip to create a versatile
 
 ⚙️ **Settings**: Ability to customize your BLEShark to its full potential.
 
-
 ## Upcoming Features 🎉
 
+✅ **Custom Apps**: Create custom applications for BLEShark.
 
-📡 **OTA (Over-The-Air) Programming**: Update your BLEShark through a captive portal through Wi-Fi (1-2 months).
-
-🤖 **Wi-Fi Deauthing**: Sends de-authentication packets to disrupt Wi-Fi network connections (1-2 months).
-
-✅ **Custom Apps**: Create custom applications for BLEShark (2-3 months).
-
-🛍️ **Shopify Store**: Purchase your BLEShark on Shopify (2-3 months).
-
-📱 **OTA Programming Through App**: Update your BLEShark through an Android app (maybe iOS soon) (4-5 months).
+🛍️ **Shopify Store**: Purchase your BLEShark on Shopify.
 
 📰 **New Model**: BLEShark Plus coming soon! (IR, better control board, bigger OLED, longer range, less battery consumtion, SD Card support, BadUSB, and more...)  
 
