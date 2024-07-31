@@ -39,6 +39,6 @@ This project uses the ESP-32 chip to create a versatile tool for spamming Blueto
 
 <p align="center">
 <strong>
-  Warning: This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device.</strong>
+  Warning: This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. THIS REPO IS A CUSTOM, 3RD PARTY FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
 </p>
 
