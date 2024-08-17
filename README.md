@@ -29,6 +29,7 @@
   <li>💀 <strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords.</li>
   <li>🖥️ <strong>Clean OLED Interface</strong>: Provides a user-friendly interface for easy operation.</li>
   <li>⚙️ <strong>Settings</strong>: Ability to customize your BLEShark to its full potential.</li>
+  <li>🔃 <strong>Automatic Updates</strong>: Auto OTA updates.</li>
 </ul>
 
 ## <span style="color: #9B59B6;">Upcoming Features 🎉</span>
