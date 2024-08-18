@@ -25,10 +25,10 @@
 <ul style="font-family: Arial, sans-serif;">
   <li>🔋 <strong>Bluetooth Low Energy (BLE) Spamming</strong>: Floods Android, Windows, and iOS devices with spoofed BLE advertisements.</li>
   <li>📶 <strong>Wi-Fi Network Spamming</strong>: Spams hundreds of Wi-Fi networks with beacon packets (including hundreds of Wi-Fi networks of the same name).</li>
-  <li>🚫 <strong>Wi-Fi Deauth Attack</strong>: Deauthenticate (kick out) devices off a 2.4Ghz Wi-Fi network.</li>
-  <li>💀 <strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords.</li>
+  <li>🚫 <strong>Wi-Fi Deauth Attack</strong>: Deauthenticates (kicks out) devices off a 2.4Ghz Wi-Fi network.</li>
+  <li>💀 <strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords and saves them onto the device.</li>
   <li>🖥️ <strong>Clean OLED Interface</strong>: Provides a user-friendly interface for easy operation.</li>
-  <li>⚙️ <strong>Settings</strong>: Ability to customize your BLEShark to its full potential.</li>
+  <li>⚙️ <strong>Settings</strong>: Ability to customize your BLEShark to its full potential with the settings mode.</li>
   <li>🔃 <strong>Automatic Updates</strong>: Auto OTA updates.</li>
 </ul>
 
@@ -36,8 +36,8 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
-  <li>🛍️ <strong>Shopify Store</strong>: Purchase your BLEShark on Shopify.</li>
-  <li>📰 <strong>New Model</strong>: BLEShark Plus coming soon! (IR, better control board, bigger OLED, longer range, less battery consumption, SD Card support, BadUSB, and more...)</li>
+  <li>🛍️ <strong>Store</strong>: Purchase your BLEShark on a store (Tindie, Shopify)</li>
+  <li>📰 <strong>New Model</strong>: BLEShark Pro coming soon! (IR, better control board, TFT touchscreen display, longer range, less battery consumption, SD card support, BadUSB, and more...)</li>
   <li>🙌 <strong>Open-Source</strong>: Potential opportunity for uploaded code for people to contribute.</li>
 </ul>
 
