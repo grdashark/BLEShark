@@ -37,6 +37,7 @@
 <ul style="font-family: Arial, sans-serif;">
   <li>🎮 <strong>Games</strong>: Games, like DOOM, T-rex game (no internet game), flappy bird, ect...</li>
   <li>😈 <strong>BadUSB</strong>: Run custom BadUSB scripts, with through the air additions (not guarenteed).</li>
+  <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
   <li>🛍️ <strong>Store</strong>: Purchase your BLEShark on a store (Tindie or/and Shopify).</li>
   <li>📰 <strong>New Model</strong>: BLEShark Pro coming soon! (IR, better control board, TFT touchscreen display, longer range, less battery consumption, SD card support, and more...)</li>
