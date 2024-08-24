@@ -35,6 +35,7 @@
 ## <span style="color: #9B59B6;">Upcoming Features 🎉</span>
 
 <ul style="font-family: Arial, sans-serif;">
+  <li>🛜 <strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
   <li>🎮 <strong>Games</strong>: Games, like DOOM, T-rex game (no internet game), flappy bird, ect...</li>
   <li>😈 <strong>BadUSB</strong>: Run custom BadUSB scripts, with through the air additions (not guarenteed).</li>
   <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
