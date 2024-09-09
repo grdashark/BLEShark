@@ -1,9 +1,9 @@
 <h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  BLEShark, an ESP-32 based BLE & Wi-Fi Spammer 📶
+  3rd party firmware for the BLEShark Nano, an ESP-32 based BLE & Wi-Fi Spammer 📶
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
-  This project uses the ESP-32 chip to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
+  This project uses the BLEShark development board (based on the ESP-32) to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
 </p>
 
 ## <span style="color: #E67E22;">Updating 🛠️</span>
@@ -24,9 +24,12 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li>🔋 <strong>Bluetooth Low Energy (BLE) Spamming</strong>: Floods Android, Windows, and iOS devices with spoofed BLE advertisements.</li>
-  <li>📶 <strong>Wi-Fi Network Spamming</strong>: Spams hundreds of Wi-Fi networks with beacon packets (including hundreds of Wi-Fi networks of the same name).</li>
+  <li>📶 <strong>Wi-Fi Network Spamming</strong>: Spams hundreds of Wi-Fi networks with beacon packets.</li>
+  <li>😵 <strong>Targeted Wi-Fi Network Spamming</strong>: Spams hundreds of the <strong>same</strong> Wi-Fi networks with beacon packets.</li>
   <li>🚫 <strong>Wi-Fi Deauth Attack</strong>: Deauthenticates (kicks out) devices off a 2.4Ghz Wi-Fi network.</li>
   <li>💀 <strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords and saves them onto the device.</li>
+  <li>😈 <strong>Bad-BT</strong>: Inject custom scripts to devices with Bluetooth.</li>
+  <li>🦥 <strong>TikTok Scroller</strong>: Unlike the others, this app connects to your phone and will execute various functions for TikTok depending on what button you press.</li>
   <li>🖥️ <strong>Clean OLED Interface</strong>: Provides a user-friendly interface for easy operation.</li>
   <li>⚙️ <strong>Settings</strong>: Ability to customize your BLEShark to its full potential with the settings mode.</li>
   <li>🔃 <strong>Automatic Updates</strong>: Auto OTA updates.</li>
@@ -38,6 +41,8 @@
   <li>🛜 <strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
   <li>🎮 <strong>Games</strong>: Games, like DOOM, T-rex game (no internet game), flappy bird, ect...</li>
   <li>😈 <strong>BadUSB</strong>: Run custom BadUSB scripts, with through the air additions (not guarenteed).</li>
+  <li>🛜 <strong>Evil Portal Cred Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in.</li>
+  <li>🦺 <strong>Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
   <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
   <li>🛍️ <strong>Store</strong>: Purchase your BLEShark on a store (Tindie or/and Shopify).</li>
