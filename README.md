@@ -1,9 +1,9 @@
 <h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  3rd party firmware for the BLEShark Nano, an ESP-32 based BLE & Wi-Fi Spammer 📶
+  BLEShark, an ESP-32 based BLE & Wi-Fi Spammer 📶
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
-  This project uses the BLEShark development board (based on the ESP-32) to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
+  This project uses the BLEShark development board (based on the ESP-32) to create a 3rd-party versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
 </p>
 
 ## <span style="color: #E67E22;">Updating 🛠️</span>
