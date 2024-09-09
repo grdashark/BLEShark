@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
-  This project uses the BLEShark development board (based on the ESP-32) to create a 3rd-party versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
+  This project uses the BLEShark Nano development board (based on the ESP-32) to create a 3rd-party versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
 </p>
 
 ## <span style="color: #E67E22;">Updating 🛠️</span>
