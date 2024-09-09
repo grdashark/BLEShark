@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  BLEShark, an ESP-32 based BLE & Wi-Fi Spammer 📶
+  BLEShark, an ESP-32 based multi-tool for pentesting 📶
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
