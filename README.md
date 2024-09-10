@@ -54,5 +54,5 @@
 ## <span style="color: #E74C3C;">WARNING‼️</span>
 
 <p align="center" style="color: #E74C3C; font-family: Arial, sans-serif; font-weight: bold;">
-  <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. <strong>THIS REPO IS A CUSTOM-BUILT 3RD PARTY FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
+  <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. <strong>THIS REPO IS A CUSTOM FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
 </p>
