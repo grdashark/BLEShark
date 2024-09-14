@@ -39,7 +39,7 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li>🛜 <strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
-  <li>🎮 <strong>Games</strong>: Games, like DOOM, T-rex game (no internet game), flappy bird, ect...</li>
+  <li>🎮 <strong>Games</strong>: Games, like (maybe) DOOM, T-rex game (no internet game), flappy bird, ect...</li>
   <li>😈 <strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li>🛜 <strong>Evil Portal Cred Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in.</li>
   <li>🦺 <strong>Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
