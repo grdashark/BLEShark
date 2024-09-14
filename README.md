@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  BLEShark, an ESP-32 based multi-tool for pentesting 📶
+  BLEShark, an ESP-32 based multi-tool 📶
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
@@ -43,6 +43,7 @@
   <li>😈 <strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li>🛜 <strong>Evil Portal Cred Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in.</li>
   <li>🦺 <strong>Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
+  <li>😯 <strong>More apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), pomodoro timer, stopwatch, weather, notes (txt viewer), ect...</li>
   <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
   <li>🙌 <strong>Open-Source</strong>: Potential opportunity for open-source code for people to contribute.</li>
@@ -51,8 +52,9 @@
   <li><strong>We would like to clarify that we are NOT associated with the development or implementation of the two upcoming features mentioned by InfiShark.</strong></li>
 </ul>
 
-## <span style="color: #E74C3C;">WARNING‼️</span>
-
+<h2 align="center" style="color: #E74C3C; font-family: Arial, sans-serif;">
+  WARNING‼️
+</h2>
 <p align="center" style="color: #E74C3C; font-family: Arial, sans-serif; font-weight: bold;">
   <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. <strong>THIS REPO IS A CUSTOM FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
 </p>
