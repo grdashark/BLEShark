@@ -47,7 +47,6 @@
   <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
   <li>🙌 <strong>Open-Source</strong>: Potential opportunity for open-source code for people to contribute.</li>
-  <li>🛍️ <strong>Store</strong>: Purchase your BLEShark on a store (Tindie or/and Shopify).</li>
   <li>📰 <strong>New Model</strong>: BLEShark Pro coming soon! (IR, better control board, TFT touchscreen display, longer range, less battery consumption, SD card support, and more...)</li>
   <li><strong>We would like to clarify that we are NOT associated with the development or implementation of the two upcoming features mentioned by InfiShark.</strong></li>
 </ul>
@@ -58,3 +57,7 @@
 <p align="center" style="color: #E74C3C; font-family: Arial, sans-serif; font-weight: bold;">
   <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. <strong>THIS REPO IS A CUSTOM FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
 </p>
+
+<h3 align="center">
+<a href="infishark.com">Order here</a>
+</h3>
