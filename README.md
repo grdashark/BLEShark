@@ -59,5 +59,5 @@
 </p>
 
 <h3 align="center">
-<a href="infishark.com">Order here</a>
+<a href="https://infishark.com">Order here</a>
 </h3>
