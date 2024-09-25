@@ -46,7 +46,6 @@
   <li>😯 <strong>More apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), pomodoro timer, stopwatch, weather, notes (txt viewer), ect...</li>
   <li>⛏️ <strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li>✅ <strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
-  <li><strong>We would like to clarify that we are NOT associated with the development or implementation of the two upcoming features mentioned by InfiShark.</strong></li>
 </ul>
 
 <h2 align="center" style="color: #E74C3C; font-family: Arial, sans-serif;">
