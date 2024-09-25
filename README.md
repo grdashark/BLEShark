@@ -2,6 +2,8 @@
   BLEShark, an ESP-32 based multi-tool 📶
 </h1>
 
+![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Main%20Photo.jpg?raw=true)
+
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
   This project uses the BLEShark Nano development board (based on the ESP-32) to create a 3rd-party versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.
 </p>
