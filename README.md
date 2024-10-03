@@ -24,17 +24,69 @@
 
 ## <span style="color: #27AE60;">Features 🚀</span>
 
+<h3><strong>💻 Pentesting</strong></h3>
 <ul style="font-family: Arial, sans-serif;">
-  <li><strong>Bluetooth Low Energy (BLE) Spamming</strong>: Floods Android, Windows, and iOS devices with spoofed BLE advertisements.</li>
-  <li><strong>Wi-Fi Network Spamming</strong>: Spams hundreds of Wi-Fi networks with beacon packets.</li>
+  <li><strong>Bluetooth Low Energy (BLE) Spamming</strong>: Floods devices with spoofed BLE advertisements.</li>
+  <ul style="font-family: Arial, sans-serif;">
+    <li>Android spam,</li>
+    <li>Windows spam,</li>
+    <li>iOS spam,</li>
+    <li>Samsung spam,</li>
+    <li>and Spam All.</li>
+  </ul>
+  <li><strong>Wi-Fi Network Spamming</strong>: Spams hundreds of Wi-Fi networks with beacon packets, including:</li>
+  <ul style="font-family: Arial, sans-serif;">
+    <li>Rickrolls</li>
+    <li>Random networks</li>
+    <li>Funny networks</li>
+    <li>Duplicate networks</li>
+  </ul>
   <li><strong>Targeted Wi-Fi Network Spamming</strong>: Spams hundreds of the <strong>same</strong> Wi-Fi networks with beacon packets.</li>
   <li><strong>Wi-Fi Deauth Attack</strong>: Deauthenticates (kicks out) devices off a 2.4Ghz Wi-Fi network.</li>
   <li><strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords and saves them onto the device.</li>
   <li><strong>Bad-BT</strong>: Inject custom scripts to devices with Bluetooth.</li>
-  <li><strong>TikTok Scroller</strong>: Unlike the others, this app connects to your phone and will execute various functions for TikTok depending on what button you press.</li>
-  <li><strong>Clean OLED Interface</strong>: Provides a user-friendly interface for easy operation.</li>
-  <li><strong>Settings</strong>: Ability to customize your BLEShark to its full potential with the settings mode.</li>
+</ul>
+<h3><strong>📝 Apps</strong></h3>
+<ul style="font-family: Arial, sans-serif;">
+  <li><strong>TikTok Scroller</strong>: Connects to your phone and will execute various functions for TikTok depending on what button you press.</li>
+  <li><strong>Stopwatch</strong>: A simple stopwatch. Press [L] to reset, [S] to pause/unpause.</li>
+  <li><strong>TxtViewer</strong>: View and scroll through custom text files for notes, presentations, and documentation. Supports smooth scrolling, word wrapping, and a built-in scroll bar for easy navigation.</li>
+</ul>
+<h3><strong>🎮 Games</strong></h3>
+<ul style="font-family: Arial, sans-serif;">
+  <li><strong>Flappy Bird</strong>: Fly through the pipes!</li>
+  <li><strong>Space Invaders</strong>: Shoot down your enemies!</li>
+  <li><strong>Pong w/AI</strong>: Try to defeat the pong AI! (unlimited ATM)</li>
+  <li><strong>Breakout</strong>: Try to destroy all the blocks!</li>
+</ul>
+<h3><strong>⚙️ Settings</strong></h3>
+<ul style="font-family: Arial, sans-serif;">
+  <li><strong>Brightness</strong>: Customize your BLEShark's brightness</li>
+  <li><strong>Manual Update</strong>: Manually update your device through the air.</li>
+  <li><strong>Extra Settings Mode</strong>: Features include:</li>
+  <ul style="font-family: Arial, sans-serif;">
+    <li><strong>Change Wi-Fi Network</strong>: Change the Wi-Fi network needed for OTA updates</li>
+    <li><strong>Enable/Disable Emergency Mode</strong>: Hold L+R together for 500 ms to open flappy bird anywhere in the device, just in case.</li>
+    <li><strong>BLESpam Delay</strong>: Change the delay per packet in BLESpam.</li>
+    <li><strong>Max Targeted Networks</strong>: Change how much targeted networks you want to create (the more, the slower they create).</li>
+    <li><strong>Deauth Delay</strong>: Change the delay per packet in the deauth attack.</li>
+    <li><strong>Evil Portal SSID Name</strong>: Change the Evil Portal SSID Name.</li>
+    <li><strong>Get Evil Portal Creds</strong>: Get the saved credentials you recieved with Evil Portal.</li>
+    <li><strong>Clear Evil Portal Creds</strong>: Clear the saved credentials you recieved with Evil Portal.</li>
+    <li><strong>Check and Update</strong>: Check for updates, and update with BLEShark.</li>
+    <li><strong>Enable/Disable Automatic Updates</strong>: Enable or disable auto updates. Will decrease boot time by a tiny bit.</li>
+    <li><strong>Change BadBT Name</strong>: Change the BadBT device name.</li>
+    <li><strong>BadBT File</strong>: Upload your duckyscript file here.</li>
+    <li><strong>TxtViewer File</strong>: Upload your .txt file here.</li>
+    <li><strong>Amazing UI</strong>: An amazing, modern UI with transitions and an extra dark mode on the settings page.</li>
+  </ul>
+</ul>
+<h3><strong>😎 Other Features</strong></h3>
+<ul style="font-family: Arial, sans-serif;">
+  <li><strong>Emergency Mode</strong>: Hold L+R together for 500 ms to open flappy bird anywhere in the device, just in case.</li>
   <li><strong>Automatic Updates</strong>: Auto OTA updates.</li>
+  <li><strong>SPIFFS System</strong>: Saves and stores almost every little configuration on the device to SPIFFS.</li>
+  <li><strong>A bunch of bitmaps</strong>: Includes a bunch of bitmaps to perfect your experience in the menu.</li>
 </ul>
 
 ## <span style="color: #9B59B6;">Upcoming Features 🎉</span>
