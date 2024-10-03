@@ -93,11 +93,11 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
-  <li><strong>Games</strong>: Games, like (maybe) DOOM, T-rex game (no internet game), flappy bird, ect...</li>
+  <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
   <li><strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li><strong>Evil Portal Cred Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in.</li>
-  <li><strong>Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
-  <li><strong>More apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), pomodoro timer, stopwatch, weather, notes (txt viewer), ect...</li>
+  <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
+  <li><strong>Add some More Apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), timers (including a pomodoro timer), ect...</li>
   <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li><strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
 </ul>
