@@ -5,7 +5,7 @@
 ![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Main%20Photo.jpg?raw=true)
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
- <i> This project uses the BLEShark Nano development board (based on the ESP-32) to create a 3rd-party versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.</i>
+ <i> This project uses the BLEShark Nano development board (based on the ESP-32) to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.</i>
 </p>
 
 ## <span style="color: #E67E22;">Updating 🛠️</span>
@@ -106,9 +106,9 @@
   WARNING‼️
 </h2>
 <p align="center" style="color: #E74C3C; font-family: Arial, sans-serif; font-weight: bold;">
-  <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device. <strong>THIS REPO IS A CUSTOM FIRMWARE THAT IS NOT INCLUDED WITH THE BLESHARK NANO.</strong>
+  <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We (the team of BLEShark) are not responsible for any misuse of this device.
 </p>
 
 <h3 align="center">
-Order your BLEShark Nano <a href="https://infishark.com"> here</a>
+Kickstarter Campaign Launching Soon!
 </h3>
