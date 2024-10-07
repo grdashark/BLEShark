@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  BLEShark Nano, an ESP-32 based multi-tool 📶
+  BLEShark Nano Firmware 📶
 </h1>
 
 ![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/BLEShark%20Nano%20Main%20Image.png?raw=true)
