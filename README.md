@@ -43,7 +43,7 @@
   </ul>
   <li><strong>Targeted Wi-Fi Network Spamming</strong>: Spams hundreds of the <strong>same</strong> Wi-Fi networks with beacon packets.</li>
   <li><strong>Wi-Fi Deauth Attack</strong>: Deauthenticates (kicks out) devices off a 2.4Ghz Wi-Fi network.</li>
-  <li><strong>Wi-Fi Evil Portal</strong>: Captive portal with Google login. Takes user-submitted passwords and saves them onto the device.</li>
+  <li><strong>Wi-Fi Captive Portals</strong>: Create any captive portal of your HTML code. By default, it is a captive portal with a Google login. This takes user-submitted passwords and saves them onto the device.</li>
   <li><strong>Bad-BT</strong>: Inject custom scripts to devices with Bluetooth.</li>
 </ul>
 <h3><strong>📝 Apps</strong></h3>
