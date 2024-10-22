@@ -93,12 +93,14 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
+  <li><strong>PC Info</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
   <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
   <li><strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li><strong>Mini Programmable Keypad</strong>: Control shortcuts, custom keys, emojis, and others in the tiny device (you can choose ~8 different commands to your choice).</li>
   <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
-  <li><strong>Add some More Apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), timers (including a pomodoro timer), ect...</li>
+  <li><strong>Timers</strong>: Choose from many presets, or your own custom creations.</li>
+  <li><strong>Song Switcher</strong>: Connect to any device, and control the music playing (previous, next, pause, ect)!</li>
   <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li><strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
 </ul>
