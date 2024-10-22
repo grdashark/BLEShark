@@ -96,7 +96,7 @@
   <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
   <li><strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li><strong>Mini Programmable Keypad</strong>: Control shortcuts, custom keys, emojis, and others in the tiny device (you can choose ~8 different commands to your choice).</li>
-  <li><strong>Evil Portal Cred Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in.</li>
+  <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
   <li><strong>Add some More Apps</strong>: This may include (not limited to) a slideshow clicker (for presentations), song switcher (previous, pause, next, volume controls), timers (including a pomodoro timer), ect...</li>
   <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
