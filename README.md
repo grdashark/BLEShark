@@ -70,9 +70,9 @@
     <li><strong>BLESpam Delay</strong>: Change the delay per packet in BLESpam.</li>
     <li><strong>Max Targeted Networks</strong>: Change how much targeted networks you want to create (the more, the slower they create).</li>
     <li><strong>Deauth Delay</strong>: Change the delay per packet in the deauth attack.</li>
-    <li><strong>Evil Portal SSID Name</strong>: Change the Evil Portal SSID Name.</li>
-    <li><strong>Get Evil Portal Creds</strong>: Get the saved credentials you recieved with Evil Portal.</li>
-    <li><strong>Clear Evil Portal Creds</strong>: Clear the saved credentials you recieved with Evil Portal.</li>
+    <li><strong>Captive Portal SSID Name</strong>: Change the Captive Portal SSID Name.</li>
+    <li><strong>Get Captive Portal Creds</strong>: Get the saved credentials you recieved with Captive Portal.</li>
+    <li><strong>Clear Captive Portal Creds</strong>: Clear the saved credentials you recieved with Captive Portal.</li>
     <li><strong>Check and Update</strong>: Check for updates, and update with BLEShark.</li>
     <li><strong>Enable/Disable Automatic Updates</strong>: Enable or disable auto updates. Will decrease boot time by a tiny bit.</li>
     <li><strong>Change BadBT Name</strong>: Change the BadBT device name.</li>
@@ -97,7 +97,7 @@
   <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
   <li><strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
   <li><strong>Mini Programmable Keypad</strong>: Control shortcuts, custom keys, emojis, and others in the tiny device (you can choose ~8 different commands to your choice).</li>
-  <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Evil Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
+  <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Captive Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
   <li><strong>Timers</strong>: Choose from many presets, or your own custom creations.</li>
   <li><strong>Song Switcher</strong>: Connect to any device, and control the music playing (previous, next, pause, ect)!</li>
