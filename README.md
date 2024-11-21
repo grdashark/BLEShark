@@ -113,5 +113,5 @@
 </p>
 
 <h3 align="center">
-Kickstarter Campaign Launching Soon!
+<a href="https://www.kickstarter.com/projects/infishark/bleshark-nano-a-compact-wireless-multi-tool-for-hackers">Kickstarter Campaign Launched!</a>
 </h3>
