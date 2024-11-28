@@ -48,9 +48,11 @@
 </ul>
 <h3><strong>📝 Apps</strong></h3>
 <ul style="font-family: Arial, sans-serif;">
+  <li><strong>Keypad</strong>: A mini keypad. Assign up to 8 different commands!</li>
+  <li><strong>TxtViewer</strong>: View and scroll through custom text files for notes, presentations, and documentation. Supports smooth scrolling, word wrapping, and a built-in scroll bar for easy navigation.</li>
   <li><strong>TikTok Scroller</strong>: Connects to your phone and will execute various functions for TikTok depending on what button you press.</li>
   <li><strong>Stopwatch</strong>: A simple stopwatch. Press [L] to reset, [S] to pause/unpause.</li>
-  <li><strong>TxtViewer</strong>: View and scroll through custom text files for notes, presentations, and documentation. Supports smooth scrolling, word wrapping, and a built-in scroll bar for easy navigation.</li>
+  <li><strong>Timers</strong>: A simple timer.</li>
 </ul>
 <h3><strong>🎮 Games</strong></h3>
 <ul style="font-family: Arial, sans-serif;">
@@ -58,6 +60,7 @@
   <li><strong>Space Invaders</strong>: Shoot down your enemies!</li>
   <li><strong>Pong w/AI</strong>: Try to defeat the pong AI! (unlimited ATM)</li>
   <li><strong>Breakout</strong>: Try to destroy all the blocks!</li>
+  <li><strong>T-Rex</strong>: It's the classic "no internet" game!</li>
 </ul>
 <h3><strong>⚙️ Settings</strong></h3>
 <ul style="font-family: Arial, sans-serif;">
@@ -93,14 +96,12 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Infrared</strong>: Control TVs, ACs, LEDs, and much more!</li>
-  <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
-  <li><strong>PC Info</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
-  <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
+  <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords. (MAYBE)</li>
+  <li><strong>PC Monitor</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
+  <li><strong>Add some More Games</strong>: A racing/drifting game, a platformer, ect...</li>
   <li><strong>BadUSB</strong>: Run custom BadUSB scripts (not guarenteed w/the chip on the BLEShark Nano).</li>
-  <li><strong>Mini Programmable Keypad</strong>: Control shortcuts, custom keys, emojis, and others in the tiny device (you can choose ~8 different commands to your choice).</li>
   <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Captive Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
-  <li><strong>Timers</strong>: Choose from many presets, or your own custom creations.</li>
   <li><strong>Song Switcher</strong>: Connect to any device, and control the music playing (previous, next, pause, ect)!</li>
   <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
   <li><strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
