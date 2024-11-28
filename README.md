@@ -81,6 +81,8 @@
     <li><strong>Change BadBT Name</strong>: Change the BadBT device name.</li>
     <li><strong>BadBT File</strong>: Upload your duckyscript file here.</li>
     <li><strong>TxtViewer File</strong>: Upload your .txt file here.</li>
+    <li><strong>Captive Portal HTML File</strong>: Upload your .html file here.</li>
+    <li><strong>Keypad Settings</strong>: Edit your keypad commands here.</li>
     <li><strong>Amazing UI</strong>: An amazing, modern UI with transitions and an extra dark mode on the settings page.</li>
   </ul>
 </ul>
