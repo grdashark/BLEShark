@@ -92,6 +92,7 @@
 ## <span style="color: #9B59B6;">Upcoming Features 🎉</span>
 
 <ul style="font-family: Arial, sans-serif;">
+  <li><strong>Infrared</strong>: Control TVs, ACs, LEDs, and much more!</li>
   <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords</li>
   <li><strong>PC Info</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
   <li><strong>Add some More Games</strong>: T-rex game (no internet game), racing/drifting game, ect...</li>
