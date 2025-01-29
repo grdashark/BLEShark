@@ -11,7 +11,7 @@
 ## <span style="color: #E67E22;">Updating 🛠️</span>
 
 <p style="font-family: Arial, sans-serif;">
-  ⚙️ <strong>To update your BLEShark, follow these steps:</strong>
+  ⚙️ <strong>To update your BLEShark Nano, follow these steps:</strong>
 </p>
 <ol style="font-family: Arial, sans-serif;">
   <li>Open the settings menu on your BLEShark</li>
