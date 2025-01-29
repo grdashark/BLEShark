@@ -46,7 +46,14 @@
   <li><strong>Wi-Fi Captive Portals</strong>: Create any captive portal of any HTML code. By default, it is a fake Gooooo (gle) login. This takes user-submitted passwords and saves them onto the device.</li>
   <li><strong>Bad-BT</strong>: Inject custom scripts to devices with Bluetooth.</li>
 </ul>
+<h3><strong>🚨 Infrared</strong>
 <h3><strong>📝 Apps</strong></h3>
+  <ul>
+    <li><strong>Receiver</strong>: Receive any Infrared signal, and save it onto the BLEShark Nano.</li>
+    <li><strong>Transmitter</strong>: Transmit individual commands saved on the BLEShark Nano.</li>
+    <li><strong>TV-B-Gone</strong>: Turn on/off any TV!</li>
+    <li><strong>Remote</strong>: Think of it as the "shortcut" version of the transmitter app.</li>
+  </ul>
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Keypad</strong>: A mini keypad. Assign up to 8 different commands!</li>
   <li><strong>TxtViewer</strong>: View and scroll through custom text files for notes, presentations, and documentation. Supports smooth scrolling, word wrapping, and a built-in scroll bar for easy navigation.</li>
@@ -97,16 +104,20 @@
 ## <span style="color: #9B59B6;">Upcoming Features 🎉</span>
 
 <ul style="font-family: Arial, sans-serif;">
-  <li><strong>Infrared</strong>: Control TVs, ACs, LEDs, and much more!</li>
   <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords.</li>
   <li><strong>PC Monitor</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
   <li><strong>Add some More Games</strong>: A racing/drifting game, a platformer, ect...</li>
-  <li><strong>BadUSB</strong>: Run custom BadUSB scripts.</li>
+  <li><strong>BadUSB</strong>: Add BadUSB on top of of Bad-BT.</li>
   <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark to a hotspot or a Wi-Fi network, The Captive Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is so if people ask "what is this device?" you can say "a mini gaming device".</li>
-  <li><strong>Song Switcher</strong>: Connect to any device, and control the music playing (previous, next, pause, ect)!</li>
-  <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark.</li>
-  <li><strong>Custom Apps</strong>: Create custom applications for BLEShark.</li>
+  <li><strong>Duino-Coin Mining</strong>: Mine Duino-Coin on your BLEShark Nano.</li>
+  <li><strong>Custom Apps</strong>: Create custom applications for BLEShark Nano.</li>
+  <li><strong>Screensaver</strong>: A small but cool feature; a DVD-Style screensaver.</li>
+  <li><strong>Better IR Reciever App</strong>: Instead of saving random commands, add option of "press power key", "press left, up, right, down" for TVs...</li>
+  <li><strong>Customize Infrared Remote/Command Names</strong>: Customize the IR remote/command names through the extra settings mode.</li>
+  <li><strong>Fix BLESpam Functionality</strong>: Make the BLESpam functionality work better (a new bug)</li>
+  <li><strong>Wi-Fi Deauth Checker</strong>: Check for deauth attacks.</li>
+  <li><strong>Battery Monitor</strong>: Monitor the BLEShark Nano's battery level.</li>
 </ul>
 
 <h2 align="center" style="color: #E74C3C; font-family: Arial, sans-serif;">
