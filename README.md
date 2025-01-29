@@ -46,14 +46,14 @@
   <li><strong>Wi-Fi Captive Portals</strong>: Create any captive portal of any HTML code. By default, it is a fake Gooooo (gle) login. This takes user-submitted passwords and saves them onto the device.</li>
   <li><strong>Bad-BT</strong>: Inject custom scripts to devices with Bluetooth.</li>
 </ul>
-<h3><strong>🚨 Infrared</strong>
-<h3><strong>📝 Apps</strong></h3>
+<h3><strong>🚨 Infrared</strong></h3>
   <ul>
     <li><strong>Receiver</strong>: Receive any Infrared signal, and save it onto the BLEShark Nano.</li>
     <li><strong>Transmitter</strong>: Transmit individual commands saved on the BLEShark Nano.</li>
     <li><strong>TV-B-Gone</strong>: Turn on/off any TV!</li>
     <li><strong>Remote</strong>: Think of it as the "shortcut" version of the transmitter app.</li>
   </ul>
+<h3><strong>📝 Apps</strong></h3>
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Keypad</strong>: A mini keypad. Assign up to 8 different commands!</li>
   <li><strong>TxtViewer</strong>: View and scroll through custom text files for notes, presentations, and documentation. Supports smooth scrolling, word wrapping, and a built-in scroll bar for easy navigation.</li>
