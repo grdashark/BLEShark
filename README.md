@@ -5,7 +5,7 @@
 ![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Alternative%20Angle%20for%20Main%20Image.png?raw=true)
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
- <i> This project uses the BLEShark Nano development board (based on the ESP-32) to create a versatile tool for spamming Bluetooth Low Energy (BLE) and Wi-Fi networks with a sleek OLED interface.</i>
+ <i> The official BLEShark Nano firmware!</i>
 </p>
 
 ## <span style="color: #E67E22;">Updating 🛠️</span>
