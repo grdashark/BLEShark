@@ -109,7 +109,6 @@
   <li><strong>Handshake Capture</strong>: Save handshakes onto a PCAP file to crack Wi-Fi passwords.</li>
   <li><strong>PC Monitor</strong>: Connect via BLE to monitor your CPU, GPU, Memory and more—perfect for keeping an eye on your hardware while gaming or working.</li>
   <li><strong>BadUSB</strong>: Add BadUSB on top of of Bad-BT.</li>
-  <li><strong>Captive Portal Credential Detector</strong>: When you connect your BLEShark Nano to a hotspot or a Wi-Fi network, The Captive Portal will check if the creds are valid as the user is typing it in. We will provide different services (FB, Google, X, ect).</li>
   <li><strong>Extreme Emergency Mode</strong>: Sets gaming menu as default menu. To unlock the real menu, open a game and press a combo of buttons (or pin). This is if people ask "what is this device?" you are able to say "a mini gaming device".</li>
   <li><strong>Custom Apps</strong>: Create custom applications for BLEShark Nano.</li>
   <li><strong>Customize Infrared Remote/Command Names</strong>: Customize the IR remote/command names through the extra settings mode.</li>
