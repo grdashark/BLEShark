@@ -2,7 +2,7 @@
   BLEShark Nano Firmware 📶
 </h1>
 
-![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Alternative%20Angle%20for%20Main%20Image.png?raw=true)
+![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Black%20Main%20Image.png?raw=true)
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
  <i> The official BLEShark Nano firmware!</i>
