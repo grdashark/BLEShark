@@ -1,37 +1,33 @@
-<h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  BLEShark Nano Firmware 📶
-</h1>
+<div align="center">
+  
+# BLEShark Nano Firmware 📶
 
-![alt text](https://github.com/grdashark/BLEShark/blob/main/Images/Black%20Main%20Image.png?raw=true)
+**Official firmware distribution for the BLEShark Nano.**
 
-<p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
- <i> The official BLEShark Nano firmware!</i>
-</p>
+*Firmware is closed-source at this time. OTA updates now operate through our dedicated update servers.  
+3D-print files are available on our website [here](https://infishark.com/pages/3d-print).*
 
-## <span style="color: #E67E22;">Updating 🛠️</span>
+![BLEShark Nano](https://cdn.shopify.com/s/files/1/0930/7448/9636/files/Nano-Main.png?v=1763341498)
 
-<p style="font-family: Arial, sans-serif;">
-  ⚙️ <strong>To update your BLEShark Nano, follow these steps:</strong>
-</p>
-<ol style="font-family: Arial, sans-serif;">
-  <li>Open the settings menu on your BLEShark</li>
-  <li>Select "Update"</li>
-  <li>Everything will be completed for you!</li>
-</ol>
-<p style="font-family: Arial, sans-serif; font-style: italic;">
-  *If you are not near your Wi-Fi network, the update will not work.*
-</p>
+</div>
 
-## <span style="color: #27AE60;">Features 🚀</span>
-The features list has been moved [here](https://docs.infishark.com/docs/basics/features-overview).
+## Updating
 
-<h2 align="center" style="color: #E74C3C; font-family: Arial, sans-serif;">
-  WARNING‼️
-</h2>
-<p align="center" style="color: #E74C3C; font-family: Arial, sans-serif; font-weight: bold;">
-  <strong>Warning:</strong> This device is intended solely for security purposes. It is designed to help identify and fix vulnerabilities in BLE and Wi-Fi networks. Unauthorized use for hacking or any other malicious activity is illegal and strictly prohibited. We, InfiShark Tech, are not responsible for any misuse of this device.
-</p>
+1. Open **Settings** on the BLEShark Nano.  
+2. Select **Update**.  
+3. The device will automatically retrieve and install the latest firmware.
 
-<h3 align="center">
-<a href="https://infishark.com">Our Website</a>
-</h3>
+*Note: a reliable Wi-Fi connection is required.*
+
+## Features
+
+The full feature overview has been moved to:  
+**https://docs.infishark.com/docs/basics/features-overview**
+
+## ⚠️ Legal Notice
+
+**This device is intended solely for cybersecurity awareness and defensive research. It is designed to help users identify and remediate vulnerabilities in their own BLE and Wi-Fi environments. Unauthorized use on networks or devices that you do not own or have explicit permission to analyze is illegal. InfiShark Technologies Inc. is not responsible for misuse.**
+
+## Website
+
+https://infishark.com
