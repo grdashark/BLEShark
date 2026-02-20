@@ -5,7 +5,7 @@
 **Official firmware distribution for the BLEShark Nano.**
 
 *Firmware is closed-source at this time. OTA updates now operate through our dedicated update servers.  
-3D-print files are available on our website [here](https://infishark.com/pages/3d-print).*
+3D-print files are available on our website [here](https://infishark.com/pages/resources).*
 
 ![BLEShark Nano](https://cdn.shopify.com/s/files/1/0930/7448/9636/files/Nano-Main.png?v=1763341498)
 
