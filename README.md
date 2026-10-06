@@ -2,6 +2,8 @@
   
 # BLEShark Nano Firmware 📶
 
+**NOTE: This repo does not contain source code, and the latest firmware updates are available through our servers. [InfiShark CLI](https://github.com/infishark/infishark) is the open-source code that allows you to control your device through a computer with a typed SDK.**
+
 **Official firmware distribution for the BLEShark Nano.**
 
 *Firmware is closed-source at this time. OTA updates now operate through our dedicated update servers.  
